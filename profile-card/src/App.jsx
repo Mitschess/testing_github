@@ -6,7 +6,7 @@ export default function App() {
   return (
     <main className="stage">
       <ProfileCard
-        name="Taqiyuddin Haq"
+        name="Tsamara Rhea"
         title="Web Developer"
         handle="mitschess"
         status="Online"
